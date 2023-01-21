@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin Siddiqui</h1>
-<h3 align="center">Research Intern in Micro Electronic Research Laboratory</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquimohsin&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquimohsin" /> </p>
 
