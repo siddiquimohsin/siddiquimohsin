@@ -7,6 +7,7 @@
 - I desiged Chisel and RISC-V Based Single Cycle Core
 - I designed Chisel and RISC-V Based Five Stage Pipeline Core
 - I worked on python basec Burq simulator to verify the Chisel and Verilog based cores
+- I worked on scala based projects using functional programming
 - I’m currently working to automate **Berkeley Analog Generator** using **Reinforcement Learning** and also Chisel based projects
 
 - How to reach me **siddiquimohsin660@gmail.com**
