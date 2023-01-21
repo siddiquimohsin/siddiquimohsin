@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddiquimohsin" alt="siddiquimohsin" /></a> </p>
 
-- 🔭 I’m currently working on [MERL](https://www.merledupk.org)
-
-- 🌱 I’m currently learning **Scala, Functional Programming**
+- 🌱 I’m currently working to automate **Berkeley Analog Generator** using **Reinforcement Learning**
 
 - 📫 How to reach me **siddiquimohsin660@gmail.com**
 
