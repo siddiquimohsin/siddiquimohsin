@@ -4,9 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddiquimohsin" alt="siddiquimohsin" /></a> </p>
 
-- 🌱 I’m currently working to automate **Berkeley Analog Generator** using **Reinforcement Learning**
+- I desiged Chisel Based Single Cycle Core
+- I designed Chisel Based Five Stage Pipeline Core
+- I worked on python basec Burq simulator to verify the Chisel and Verilog based cores
+- I’m currently working to automate **Berkeley Analog Generator** using **Reinforcement Learning**
 
-- 📫 How to reach me **siddiquimohsin660@gmail.com**
+- How to reach me **siddiquimohsin660@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
