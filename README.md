@@ -10,7 +10,7 @@
 - I worked on scala based projects using functional programming
 - I’m currently working to automate **Berkeley Analog Generator** using **Reinforcement Learning** and also Chisel based projects
 
-- How to reach me **siddiquimohsin660@gmail.com**
+- How to reach me **mohsid242000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
